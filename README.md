@@ -6,7 +6,7 @@
 
 ###
 
-# npm i
+# npm install
 
 ###
 
