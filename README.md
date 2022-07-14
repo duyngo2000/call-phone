@@ -6,15 +6,16 @@
 
 ###
 
-# npm install
-
-###
-
 - go to folder call-phone
 
 ###
 
 # cd call-phone
+
+
+###
+
+# npm install
 
 ###
 
